@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{AA9180C5-897A-4977-972C-7FB42A429965}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NumbersBetweenApp/MainPage.xaml.cs">
+    <Files>
+      <File FileName="NumbersBetweenApp/MainPage.xaml.cs" Line="3" Column="34" />
+      <File FileName="NumbersBetweenApp/MainPage.xaml" Line="4" Column="41" />
+      <File FileName="NumbersBetweenApp/AppShell.xaml" Line="6" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NumbersBetweenApp" expanded="True" selected="True">
+            <Node name="NumbersBetweenApp" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_5_API_30" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.46" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.NumbersBetweenApp PreferredExecutionTarget="Android.Pixel_5_API_30" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

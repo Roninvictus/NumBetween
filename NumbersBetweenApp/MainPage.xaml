@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NumbersBetweenApp.MainPage">
+    <StackLayout Padding="20">
+        <Label Text="Number Between App" FontSize="24" HorizontalOptions="Center" Margin="0,0,0,20"/>
+
+        <Label Text="Start Number:" FontSize="18"/>
+        <Entry x:Name="startNumberEntry" Keyboard="Numeric" Margin="0,0,0,10"/>
+
+        <Label Text="End Number:" FontSize="18"/>
+        <Entry x:Name="endNumberEntry" Keyboard="Numeric" Margin="0,0,0,10"/>
+
+        <Label Text="Increment Value:" FontSize="18"/>
+        <Entry x:Name="incrementEntry" Keyboard="Numeric" Margin="0,0,0,10"/>
+
+        <Button x:Name="showNumbersButton" Text="Show Numbers" Clicked="ShowNumbersButton_Clicked"/>
+
+        <Label x:Name="numberLabel" FontSize="18" Margin="0,20,0,0"/>
+    </StackLayout>
+</ContentPage>
